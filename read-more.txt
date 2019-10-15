@@ -1,0 +1,4 @@
+this is sentence was written from the master of the project
+============================================================
+
+when you will add ours, do not forget to specify.
