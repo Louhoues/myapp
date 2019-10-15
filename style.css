@@ -1,0 +1,29 @@
+ body{
+ 	font-size: 1.3rem;
+ 	font-family: 'Arial sans-serif';
+ 	background: lightgray;
+ }
+
+ .container{
+ 	margin: 10% auto;
+ 	padding: 2em;
+ 	background: #fff;
+ 	max-width: 70%;
+ }
+
+ a{
+ 	text-decoration: none;
+ 	color: #000;
+ }
+
+ .btn{
+ 	display: inline-block;
+ 	background: #ffc;
+ 	padding: 1em 1.5em;
+
+ }
+
+ .btn:hover{
+ 	background: #000;
+ 	color: #ffc;
+ }
